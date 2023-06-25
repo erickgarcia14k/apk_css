@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(239, 201, 233);
+}
+
+#caja{
+    cursor: pointer;
+    transition: all ease .8s;
+}
+
+#texto2{
+    cursor: pointer;
+    transition: all ease .8s;
+}
+
+#tamaño{
+    cursor: pointer;
+    transition: all ease .8s;
+}
+
+#image{
+    cursor: pointer;
+    transition: all ease .8s;
+}
